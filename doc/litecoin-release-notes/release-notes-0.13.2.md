@@ -227,7 +227,7 @@ at all. Therefore, a fallback value can be set with `-fallbackfee=<f>`
 (default: `0.0002` LTC/kB).
 
 At all times, riffcash Core will cap fees at `-maxtxfee=<x>` (default:
-0.10) LTC.
+0.10) RFC.
 Furthermore, riffcash Core will never create transactions paying less than
 the current minimum relay fee.
 Finally, a user can set the minimum fee rate for all transactions with
